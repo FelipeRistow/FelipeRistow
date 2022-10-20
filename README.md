@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Ristow</h1>
 <h3 align="center">A</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feliperistow" alt="feliperistow" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-ristow-bernardo-de-souza-b20a36212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-ristow-bernardo-de-souza-b20a36212" height="30" width="40" /></a>
