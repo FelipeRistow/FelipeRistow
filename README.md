@@ -32,12 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 45 mins    ████████████▒░░░░░░░░░░░░   49.34 %
-JavaScript   1 hr 20 mins    █████████▒░░░░░░░░░░░░░░░   37.78 %
-JSON         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Env File     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
