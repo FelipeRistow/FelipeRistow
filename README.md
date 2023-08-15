@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Django deployment on Ubuntu Server</p>
+<p align="left">✨ Creating bugs since 2020</p>
 
 ###
 
