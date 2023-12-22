@@ -32,11 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             1 hr 42 mins    █████████████████░░░░░░░░   68.51 %
-JavaScript         38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-textmate           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Text               3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python             1 hr 48 mins    █████████████████▒░░░░░░░   69.68 %
+JavaScript         38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+textmate           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Text               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
