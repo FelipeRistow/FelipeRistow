@@ -32,11 +32,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   17 mins         ███████████████▓░░░░░░░░░   62.97 %
-Python       6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.63 %
-textmate     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   0 secs          ████████████████████████░   96.65 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
