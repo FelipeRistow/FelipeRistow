@@ -32,9 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     9 mins          ██████████████████▓░░░░░░   75.20 %
-textmate   3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
