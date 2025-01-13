@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       10 mins         ██████████████████████▓░░   90.32 %
-TypeScript       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-SCSS             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+JavaScript       10 mins         ████████████████▒░░░░░░░░   65.43 %
+Text             3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Python           1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+TypeScript       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
